@@ -27,13 +27,13 @@ These are for 1 city(Philadelphia), we have the same pages for other 4 cities.
 
 
 ## Rough Breakdown of Tasks
-(create konbon on git)
--Convert data from pdf files to csv files that can be used
--Create all necessary notebooks and files for the project repository
--Bring in any necessary data from API(alpacas)
--Clean the data 
+- (create konbon on git)
+- Convert data from pdf files to csv files that can be used
+- Create all necessary notebooks and files for the project repository
+- Bring in any necessary data from API(alpacas)
+- Clean the data 
 - Analyze data and interpret
--Create visualizations (at least 6)
--Throw in something nifty(1 uncovered library)
--Summarize findings in README.md
--Presentation practice
+- Create visualizations (at least 6)
+- Throw in something nifty(1 uncovered library)
+- Summarize findings in README.md
+- Presentation practice
