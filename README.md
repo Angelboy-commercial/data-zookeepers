@@ -1,6 +1,7 @@
 # Project Title
 Bang for your Buck
 ## Team Members
+Ayana Martinez, Nathan Vasquez, Mo Wahome
 
 ## Project Description/Outline
 We will examine 3 cities (Seattle, Philadelphia, and Los Angeles), their CPI measures (housing, apparel, and food away from home) and compare their year over year percent change to the annual percent change for the relevant stock market tickers. We will use CPI data from 2012-2021 and stock data from 2015 to current. Seven years of data from 2018-2021 will be used in final analyses. 
@@ -11,7 +12,7 @@ We will examine 3 cities (Seattle, Philadelphia, and Los Angeles), their CPI mea
 - What the trends with trade counts during periods of high inflation in each industry?
 
 ## Datasets to be used
-These are for 1 city(Philadelphia), we have the same pages for other 2 cities. We'll use annual column for housing, apparel, and food away from home.
+These are for 1 city(Philadelphia), we have the same pages for other 2 cities. We'll use annual CPI column for housing, apparel, and food away from home variables.
 [CPI Data Philly](https://www.bls.gov/regions/mid-atlantic/news-release/consumerpriceindex_philadelphia.htm)
 
 ALPACAS for stock data
