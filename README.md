@@ -34,6 +34,11 @@ We will examine 3 cities (Seattle, Philadelphia, and Los Angeles), their CPI mea
 ## Findings
 * Stocks are good to hedge against inflation but dependent on industry.
 - Housing CPI and Food away from home CPI have generally increased over time while Apparel CPI is cyclical.
-- For all 3 cities, the relationship between CPI and stock data in the Food and Housing Industries showed similar results. 
-- There was no clear relationship between CPI and stock data in the Apparel Industry regardless of city.
+    > When OER is high, it might be worthwhile to buy a home rather than rent.
+    > High Food away from home CPI might indicate good opportunities for food business
+
+- CPI and stock data in the Food and Housing Industries indicate a potential relationship. 
+
+- No clear relationship  between stocks and CPI in the  Apparel industry.
+
 - Philadelphia and Seattle had somewhat inconsistent at times as far as high inflation and trade count. However, LA (second largest US market) seemed to have a direct influence on national trade count during periods of high inflation in LA housing and food.
