@@ -4,7 +4,7 @@
 Ayana Martinez, Nathan Vasquez, Mo Wahome
 
 ## Project Description/Outline
-We will examine 3 cities (Seattle, Philadelphia, and Los Angeles), their CPI measures (housing, apparel, and food away from home) and compare their year over year percent change to the annual percent change for the relevant stock market tickers. We will use CPI data from 2012-2021 and stock data from 2015 to current. Seven years of data from 2018-2021 will be used in final analyses. 
+We will examine 3 cities (Seattle, Philadelphia, and Los Angeles), their CPI measures (housing, apparel, and food away from home) and compare their year over year percent change to the annual percent change for the relevant stock market tickers. We will use CPI data from 2012-2021 and stock data from 2015 to current. Seven years of data from 2015-2021 will be used in final analyses. 
 
 ## Research Questions to Answer 
 - For each industry, during the biggest increase and decrease in CPI percent change, what was the stock market percentage change during the same year?
